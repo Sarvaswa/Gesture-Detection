@@ -8,7 +8,8 @@ A Color-based Gesture Detection system built in python. It uses colors in certai
 Python 3.5
 OpenCV 3.2
 
+# Testing and Progress
 The code has been tested on Windows 8, 8.1 and 10 and works fine.
 The code is still under development and improvements are under way.
 
-Enjoy.
+Enjoy :)
