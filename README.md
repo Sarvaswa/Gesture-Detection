@@ -22,4 +22,4 @@ A Color-based Gesture Detection system built in python. It uses colors in certai
 
 All suggestions are welcome.
 
-Enjoy :)
+**Enjoy :)**
